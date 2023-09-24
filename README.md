@@ -6,7 +6,7 @@
 Aplikasi mini market adalah perangkat lunak yang dirancang untuk membantu manajemen operasi sehari-hari dalam bisnis mini market atau toko kelontong. Aplikasi ini dapat memiliki berbagai fitur dan fungsi yang membantu pemilik atau pengelola toko dalam berbagai aspek bisnis mereka.</div>
 <br>
 
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif.studio)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/Php-AplikasiKasir/graphs/commit-activity)
 
